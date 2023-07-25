@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DharsanRamesh
-- 👀 I’m interested in Security Egineering
-- 🌱 I’m currently learning MTech in Cyber Security (Purple Teaming)
+- 👀 I’m a Security Architect
+- 🌱 I’m currently expertised in DevSecOps Software and Cloud
 - 💞️ I’m looking to collaborate on Dev Sec Ops
 - 📫 How to reach me @darshan.ferrari@gmail.com
 
